@@ -145,7 +145,24 @@ These platforms provide hands-on **hacking challenges, Capture The Flag (CTF) co
 ## **Password Recovery & Cracking**  
 
 - [John the Ripper](https://www.openwall.com/john/) – Offline password cracker.  
-- [Hashcat](https://hashcat.net/hashcat/) – GPU-accelerated hash cracker.  
+- [Hashcat](https://hashcat.net/hashcat/) – GPU-accelerated hash cracker.
+
+## **Essential Cybersecurity Cheat Sheets & Quick References**
+
+- [JSON and jq Quick Start Guide](https://www.sans.org/posters/json-and-jq-quick-start-guide/)  
+- [SIFT Workstation Cheat Sheet](https://www.sans.org/posters/sift-workstation-cheat-sheet/)  
+- [Malware Analysis and Reverse-Engineering Cheat Sheet](https://www.sans.org/posters/malware-analysis-and-reverse-engineering-cheat-sheet/)  
+- [Windows to Unix Cheat Sheet](https://www.sans.org/posters/windows-to-unix-cheat-sheet/)  
+- [Memory Forensics Cheat Sheet](https://www.sans.org/posters/memory-forensics-cheat-sheet/)  
+- [Hex and Regex Forensics Cheat Sheet](https://www.sans.org/posters/hex-and-regex-forensics-cheat-sheet/)  
+- [FOR518 Mac & iOS HFS+ Filesystem Reference Sheet](https://www.sans.org/posters/mac-and-ios-hfs-filesystem-reference-sheet/)  
+- [iOS Third-Party Apps Forensics Reference Guide](https://www.sans.org/posters/ios-third-party-apps-forensics-reference-guide-poster/)  
+- [oledump.py Quick Reference](https://www.sans.org/posters/oledump-quick-reference/)  
+- [Tips for Reverse-Engineering Malicious Code](https://www.sans.org/posters/tips-for-reverse-engineering-malicious-code/)  
+- [Analyzing Malicious Documents](https://www.sans.org/posters/analyzing-malicious-documents/)  
+- [Eric Zimmerman's Tools Cheat Sheet](https://www.sans.org/posters/eric-zimmermans-tools-cheat-sheet/)  
+- [Rekall Memory Forensics Cheat Sheet](https://www.sans.org/posters/rekall-memory-forensics-cheat-sheet/)  
+- [Linux Shell Survival Guide](https://www.sans.org/posters/linux-shell-survival-guide/)  
 
 ## **Encryption & Data Transformation**  
 
