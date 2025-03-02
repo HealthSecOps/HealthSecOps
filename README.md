@@ -1,37 +1,192 @@
-Welcome to my GitHub profile! As a cybersecurity professional, I am dedicated to safeguarding digital assets, protecting data privacy, and ensuring secure practices across the healthcare technology landscape. Here, you'll find a collection of my projects, contributions, and open-source endeavors aimed at strengthening cyber defenses and promoting a secure online environment.
+# Security Resources  
 
-🔐 Skills:
+> **Michael Romansky | PHILIPS Cybersecurity**  
 
-    Penetration Testing & Vulnerability Assessment
-    Incident Response & Digital Forensics
-    Security Architecture & Design
-    Network Security & Firewall Management
-    Threat Intelligence & Risk Assessment
-    Secure Coding & Application Security
-    Cryptography & Encryption
-    Security Auditing & Compliance
+**Comprehensive Cybersecurity, OSINT, Threat Intelligence, and Pentesting Resources | Updated 2025**  
 
-🌐 Projects & Contributions:
+---
 
-1️⃣ Secure Web Application Development: I have developed web applications with a strong focus on security, utilizing frameworks such as OWASP Top 10, input validation, and output encoding to prevent common vulnerabilities like XSS and SQL injection.
+# Cybersecurity Wargames & Practice Platforms  
 
-2️⃣ Penetration Testing Framework: I created an open-source penetration testing framework that automates various stages of the testing process, including reconnaissance, scanning, exploitation, and reporting. It incorporates popular tools like Nmap, Metasploit, and Burp Suite.
+## General Wargames & Capture The Flag (CTF) Challenges  
 
-3️⃣ Security Incident Response Toolkit: I collaborated on a project to develop a comprehensive incident response toolkit, which includes scripts, playbooks, and documentation to effectively respond to security incidents, contain threats, and perform forensic investigations.
+- [PicoCTF](https://picoctf.com)  
+- [TryHackMe](https://tryhackme.com)  
+- [Hack The Box](https://www.hackthebox.eu/)  
+- [VulnHub](https://www.vulnhub.com/)  
+- [CTFLearn](https://ctflearn.com)  
+- [PentesterLab](https://pentesterlab.com/)  
+- [Root-Me](https://www.root-me.org/)  
+- [Over The Wire](http://overthewire.org/wargames/)  
+- [Microcorruption](https://microcorruption.com)  
+- [CryptoHack](https://cryptohack.org/)  
+- [Proving Grounds](https://portal.offensive-security.com/proving-grounds/play)  
+- [Backdoor](https://backdoor.sdslabs.co/)  
+- [Crackmes](https://crackmes.one/)  
+- [Exploit Education](http://exploit.education)  
+- [Pwnable.kr](http://pwnable.kr/)  
+- [Pwnable.xyz](https://pwnable.xyz/)  
+- [SmashTheStack](http://smashthestack.org/)  
 
-4️⃣ Threat Intelligence Platform Integration: I contributed to integrating various threat intelligence feeds into a centralized platform, enabling real-time monitoring, analysis, and proactive response to emerging threats.
+---
 
-5️⃣ Security Blog & Knowledge Sharing: I maintain a security blog where I share insights, best practices, and in-depth analysis of the latest security vulnerabilities, trends, and countermeasures. I actively engage with the community by participating in security forums and conferences.
+# Open-Source Intelligence (OSINT) & Threat Intelligence  
 
-📚 Education & Certifications:
+## People & Social Media Search  
 
-    Adv Dipl /Master's degree in Systems Analysis and Design /Software Endineering (Matriculated, Not finished)    
-    Certified Ethical Hacker (CEH), Certified Information Security Manager (CISM)
+- [Maltego](https://www.maltego.com/)  
+- [Spiderfoot](https://www.spiderfoot.net/)  
+- [OSINT Framework](https://osintframework.com/)  
+- [UserSearch.org](https://usersearch.org/)  
+- [Sherlock](https://github.com/sherlock-project/sherlock)  
 
-🔍 Looking Ahead:
-I am committed to staying at the forefront of cybersecurity by continuously learning and exploring new technologies, emerging threats, and evolving best practices. I am excited to collaborate with like-minded professionals and contribute to the development of innovative security solutions that protect individuals, organizations, and critical infrastructure.
+## Threat Intelligence & Dark Web Research  
 
-Feel free to explore my repositories, reach out for collaboration, or connect with me on LinkedIn. Let's work together to build a more secure digital world!
+- [VirusTotal](https://www.virustotal.com/)  
+- [AlienVault OTX](https://otx.alienvault.com/)  
+- [GreyNoise](https://www.greynoise.io/)  
+- [MISP](https://www.misp-project.org/)  
+- [DarkSearch.io](https://darksearch.io/)  
+- [IntelX](https://intelx.io/)  
+
+---
+
+# Safe Browsing & Anonymity Best Practices  
+
+## Privacy-Focused Browsers  
+
+- [Brave](https://brave.com/)  
+- [Tor Browser](https://www.torproject.org/)  
+- [LibreWolf](https://librewolf.net/)  
+
+## VPN & Proxy Tools  
+
+- [Mullvad VPN](https://mullvad.net/)  
+- [ProtonVPN](https://protonvpn.com/)  
+- [Psiphon](https://psiphon.ca/)  
+
+---
+
+# Digital Forensics & Incident Response (DFIR)  
+
+## Disk & Memory Forensics  
+
+- [Autopsy](https://www.autopsy.com/)  
+- [The Sleuth Kit](https://www.sleuthkit.org/)  
+- [Volatility](https://github.com/volatilityfoundation/volatility)  
+- [Magnet AXIOM](https://www.magnetforensics.com/)  
+- [Velociraptor](https://www.velociraptor.app/)  
+- [GRR Rapid Response](https://grr.dev/)  
+- [Rekall](https://github.com/google/rekall)  
+- [Kape](https://www.magnetforensics.com/kape/)  
+
+## Network & Endpoint Forensics  
+
+- [Wireshark](https://www.wireshark.org/)  
+- [Zeek (Bro)](https://zeek.org/)  
+- [Arkime (Moloch)](https://arkime.com/)  
+- [Suricata](https://suricata.io/)  
+- [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)  
+- [OSQuery](https://osquery.io/)  
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)  
+
+## File & Malware Analysis  
+
+- [PE Studio](https://www.winitor.com/)  
+- [CAPA](https://github.com/mandiant/capa)  
+- [PE-Bear](https://github.com/hasherezade/pe-bear-releases)  
+- [YARA](https://github.com/VirusTotal/yara)  
+- [Cuckoo Sandbox](https://cuckoosandbox.org/)  
+- [FLARE VM](https://github.com/fireeye/flare-vm/)  
+
+---
+
+# Binary Analysis & Reverse Engineering  
+
+- [IDA Free](https://hex-rays.com/ida-free/)  
+- [Ghidra](https://ghidra-sre.org/)  
+- [Radare2](https://www.radare.org/r/)  
+- [Binary Ninja](https://binary.ninja/)  
+- [Rizin](https://rizin.re/)  
+- [Angr](https://angr.io/)  
+
+---
+
+# Security-Focused Operating Systems  
+
+## Kali Linux  
+
+[Download](https://www.kali.org/)  
+
+- Metasploit Framework  
+- Nmap  
+- Burp Suite  
+- Wireshark  
+
+## Parrot Security OS  
+
+[Download](https://www.parrotsec.org/)  
+
+- Anonsurf  
+- Bettercap  
+
+## Security Onion  
+
+[Download](https://securityonion.net/)  
+
+- Suricata  
+- Zeek (Bro)  
+
+## REMnux  
+
+[Download](https://remnux.org/)  
+
+- Ghidra  
+- PE Studio  
+- Cuckoo Sandbox  
+
+---
+
+# Cryptography & Password Cracking  
+
+## Password Cracking  
+
+- [John the Ripper](https://www.openwall.com/john/)  
+- [Hashcat](https://hashcat.net/hashcat/)  
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra)  
+
+## Cryptographic Analysis  
+
+- [CyberChef](https://gchq.github.io/CyberChef)  
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)  
+- [XORTool](https://github.com/hellman/xortool)  
+
+---
+
+# Remote Access Trojan (RAT) Research & Detection  
+
+## Well-Known Remote Access Trojans (RATs)  
+
+- [QuasarRAT](https://github.com/quasar/QuasarRAT)  
+- [AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)  
+- [NanoCore](https://www.nano-core.com/)  
+- [MeshConnect RAT](https://github.com/)  
+- [DarkComet](https://github.com/eset/malware-ioc/tree/master/DarkComet)  
+
+## Detection & Analysis of RATs  
+
+- [Process Hacker](https://processhacker.sourceforge.io/)  
+- [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)  
+
+---
+
+# Conclusion  
+
+This **repository is designed to be the ultimate cybersecurity master guide**.  
+
+🚀 **Let me know if you need any refinements or additions!**  
+
+
 
 
 
