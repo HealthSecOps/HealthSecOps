@@ -6,7 +6,7 @@
 
 ---
 
-# 🔥 Cybersecurity Wargames & Practice Platforms  
+# Cybersecurity Wargames & Practice Platforms  
 
 These platforms offer **hands-on practice** for **penetration testing, forensics, reverse engineering, and cryptography**.  
 
