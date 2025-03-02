@@ -2,7 +2,7 @@
 
 > **Michael Romansky | PHILIPS Cybersecurity**  
 
-**A Master List of Cybersecurity Tools, Training, and Resources | Updated 2025**  
+
 
 ---
 
