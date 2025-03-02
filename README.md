@@ -1,121 +1,159 @@
-# Security Resources  
+# Comprehensive Cybersecurity Tools and Resources  
 
 > **Michael Romansky | PHILIPS Cybersecurity**  
 
-**Comprehensive Cybersecurity, OSINT, Threat Intelligence, Incident Response, and Pentesting Resources | Updated 2025**  
+**A Master List of Cybersecurity Tools, Training, and Resources | Updated 2025**  
 
 ---
 
-# Cybersecurity Wargames & Practice Platforms  
+##  Introduction  
 
-These platforms offer **hands-on practice** for **penetration testing, forensics, reverse engineering, and cryptography**.  
+This document serves as a **complete guide** for:  
 
-## General Wargames & Capture The Flag (CTF) Challenges  
+- **Cybersecurity professionals**  
+- **Ethical hackers & penetration testers**  
+- **Incident responders & forensic analysts**  
+- **Threat intelligence researchers & OSINT specialists**  
 
-- **[PicoCTF](https://picoctf.com)** – Beginner-friendly CTF from Carnegie Mellon.  
-- **[TryHackMe](https://tryhackme.com)** – Hands-on pentesting labs.  
-- **[Hack The Box](https://www.hackthebox.com/)** – Advanced pentesting playground.  
-- **[VulnHub](https://www.vulnhub.com/)** – Vulnerable VM images for offline testing.  
-- **[PentesterLab](https://pentesterlab.com/)** – Web security challenges.  
-- **[Microcorruption](https://microcorruption.com)** – **Embedded security** and **firmware exploitation**.  
-- **[CryptoHack](https://cryptohack.org/)** – **Cryptography-focused challenges**.  
-- **[Proving Grounds](https://portal.offensive-security.com/proving-grounds/play)** – From Offensive Security, simulates real-world pentesting environments.  
+It includes **open-source tools, cybersecurity training platforms, OSINT research sites, digital forensics software, malware analysis tools, SIEM solutions, and more**.
+
+This document **prioritizes open-source solutions** but includes enterprise-grade tools where applicable.  
 
 ---
 
-# 🔍 Open-Source Intelligence (OSINT) & Threat Intelligence  
+#  Cybersecurity Training Platforms & Wargames  
 
-## People & Social Media Search  
+These platforms provide hands-on **hacking challenges, Capture The Flag (CTF) competitions, and real-world simulations**.
 
-- **[Maltego](https://www.maltego.com/)** – **Link analysis & mapping relationships**.  
-- **[Spiderfoot](https://www.spiderfoot.net/)** – Automated **OSINT scanning**.  
-- **[Sherlock](https://github.com/sherlock-project/sherlock)** – **Find usernames** across social networks.  
+## **General Cybersecurity & CTF Platforms**  
 
-## Threat Intelligence & Dark Web Research  
+- [PicoCTF](https://picoctf.com) – Beginner-friendly CTF from Carnegie Mellon.  
+- [TryHackMe](https://tryhackme.com) – Cloud-based learning for pentesting, SOC analysis, and OSINT.  
+- [Hack The Box](https://www.hackthebox.com/) – Advanced real-world pentesting labs.  
+- [VulnHub](https://www.vulnhub.com/) – Vulnerable VM images for offline security testing.  
+- [PentesterLab](https://pentesterlab.com/) – Web security challenges.  
+- [Proving Grounds](https://portal.offensive-security.com/proving-grounds/play) – Hands-on pentesting practice.  
+- [OverTheWire](http://overthewire.org/wargames/) – Linux security & networking challenges.  
 
-- **[VirusTotal](https://www.virustotal.com/)** – **Checks files & URLs** against multiple antivirus engines.  
-- **[AlienVault OTX](https://otx.alienvault.com/)** – **Threat intelligence sharing** platform.  
-- **[MISP](https://www.misp-project.org/)** – **Malware information sharing**.  
-- **[DarkSearch.io](https://darksearch.io/)** – **Dark web search engine**.  
+## **Specialized Hacking Challenges**  
 
----
-
-# 🛡 **Incident Response & Digital Forensics (DFIR)**  
-
-### **Incident Response Process**  
-1. **Preparation** – Develop IR plans, run tabletop exercises, train teams.  
-2. **Detection & Analysis** – Identify, classify, and assess threats.  
-3. **Containment** – Isolate affected systems to prevent further damage.  
-4. **Eradication** – Remove malware, vulnerabilities, and attacker access.  
-5. **Recovery** – Restore systems, validate security, and resume operations.  
-6. **Lessons Learned** – Conduct a post-mortem to improve defenses.  
+- [Microcorruption](https://microcorruption.com) – Embedded device security.  
+- [CryptoHack](https://cryptohack.org/) – Cryptography attacks & modern encryption techniques.  
+- [Exploit Education](http://exploit.education) – Binary exploitation & memory corruption labs.  
+- [Crackmes.one](https://crackmes.one/) – Reverse engineering & binary exploitation challenges.  
+- [Hack This Site](https://www.hackthissite.org/) – Real-world hacking simulations.  
 
 ---
 
-##  **Detection & Analysis Tools**  
-- **[Suricata](https://suricata.io/)** – **Intrusion Detection/Prevention System (IDS/IPS)**.  
-- **[Zeek (Bro)](https://zeek.org/)** – **Network traffic analysis** for anomalies.  
-- **[Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)** – **Windows process monitoring**.  
-- **[Wireshark](https://www.wireshark.org/)** – **Packet capture & analysis**.  
-- **[OSQuery](https://osquery.io/)** – **Endpoint monitoring & query-based security checks**.  
+#  Open-Source Intelligence (OSINT) & Threat Intelligence  
+
+## **OSINT Frameworks**  
+
+- [Maltego](https://www.maltego.com/) – Link analysis for mapping relationships.  
+- [Spiderfoot](https://www.spiderfoot.net/) – Automated OSINT scanning.  
+- [OSINT Framework](https://osintframework.com/) – Collection of OSINT tools.  
+
+## **Domain & Website Intelligence**  
+
+- [Amass](https://github.com/owasp-amass/amass) – DNS enumeration & subdomain discovery.  
+- [Shodan](https://www.shodan.io/) – Search engine for internet-facing devices.  
+- [Censys](https://censys.io/) – Network & device fingerprinting.  
+- [BuiltWith](https://builtwith.com/) – Identifies technologies on websites.  
+
+## **Dark Web & Threat Intelligence**  
+
+- [VirusTotal](https://www.virustotal.com/) – File & URL scanner for malware detection.  
+- [AlienVault OTX](https://otx.alienvault.com/) – Community-driven threat intelligence.  
+- [MISP](https://www.misp-project.org/) – Malware & IOC sharing platform.  
+- [DarkSearch.io](https://darksearch.io/) – Search engine for dark web content.  
 
 ---
 
-##  **Forensic Investigation & Malware Analysis**  
+# .onion Sites for Cybersecurity & OSINT  
 
-### **Disk & Memory Forensics**  
-- **[Autopsy](https://www.autopsy.com/)** – **GUI-based forensic tool**.  
-- **[The Sleuth Kit](https://www.sleuthkit.org/)** – **CLI-based filesystem forensics**.  
-- **[Volatility](https://github.com/volatilityfoundation/volatility)** – **Memory forensics for malware detection**.  
-
-### **Malware Analysis**  
-- **[PE Studio](https://www.winitor.com/)** – **Static analysis of PE files**.  
-- **[Cuckoo Sandbox](https://cuckoosandbox.org/)** – **Automated malware behavior analysis**.  
-- **[FLARE VM](https://github.com/fireeye/flare-vm/)** – **Windows malware analysis toolkit**.  
-
----
-
-# Remote Access Trojan (RAT) Research & Detection  
-
-## Known Remote Access Trojans (RATs)  
-
-- **[QuasarRAT](https://github.com/quasar/QuasarRAT)** – Lightweight **remote administration tool**.  
-- **[AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)** – Open-source RAT.  
-- **[MeshCentral RAT](https://meshcentral.com/)** – **Secure remote management tool** (often misused).  
-- **[DarkComet](https://github.com/eset/malware-ioc/tree/master/DarkComet)** – **Infamous RAT** (discontinued).  
-
-## Detection & Analysis  
-
-- **[Process Hacker](https://processhacker.sourceforge.io/)** – Advanced **Windows process analysis**.  
-- **[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)** – **Detects persistence mechanisms** in Windows.  
-
----
-
-#  .onion Sites for Cybersecurity & OSINT  
-
-> ** Use Tor Browser to access these safely**  
+> **Use Tor Browser for secure access**  
 
 ## **Threat Intelligence & Dark Web Search**  
-- **[Ahmia](http://ahmia.fi/)** – **Search engine for Tor sites**.  
-- **[OnionSearch](http://onionsearchserver.com/)** – **Dark web search index**.  
 
-## **Anonymous Email & Secure Messaging**  
-- **[ProtonMail Onion](http://protonirockerxow.onion/)** – **Tor-accessible private email**.  
-- **[Tutanota Onion](https://tutanota.com/)** – **End-to-end encrypted email**.  
+- [Ahmia](http://ahmia.fi/) – Tor search engine.  
+- [OnionSearch](http://onionsearchserver.com/) – Dark web search index.  
+- [IntelX](http://intelx.io/) – Archives leaked data & breaches.  
 
----
+## **Privacy & Secure Communication**  
 
-# Cryptography & Password Cracking  
-
-## Password Cracking  
-- **[John the Ripper](https://www.openwall.com/john/)** – **Offline password cracking**.  
-- **[Hashcat](https://hashcat.net/hashcat/)** – **GPU-accelerated hash cracking**.  
-
-## Cryptographic Analysis  
-- **[CyberChef](https://gchq.github.io/CyberChef/)** – **Data transformation & decryption**.  
+- [ProtonMail Onion](http://protonirockerxow.onion/) – Encrypted email over Tor.  
+- [Tutanota Onion](https://tutanota.com/) – End-to-end encrypted messaging.  
+- [Riseup Onion](http://nzh3fv6jc6jskki3.onion/) – Secure email & VPN services.  
 
 ---
 
+#  Incident Response & Digital Forensics (DFIR)  
+
+## **Incident Response Lifecycle**  
+
+1. **Preparation** – Develop IR policies, playbooks, tabletop exercises.  
+2. **Detection & Analysis** – SIEM, network traffic analysis, and log correlation.  
+3. **Containment** – Isolate affected systems.  
+4. **Eradication** – Remove malware, persistence, vulnerabilities.  
+5. **Recovery** – Restore services, verify security.  
+6. **Lessons Learned** – Improve security post-mortem.  
+
+## **Forensic Analysis Tools**  
+
+- [Autopsy](https://www.autopsy.com/) – GUI-based digital forensics.  
+- [The Sleuth Kit](https://www.sleuthkit.org/) – Filesystem forensic analysis.  
+- [Volatility](https://github.com/volatilityfoundation/volatility) – Memory forensics.  
+- [Wireshark](https://www.wireshark.org/) – Network packet analysis.  
+- [Suricata](https://suricata.io/) – Intrusion detection & prevention (IDS/IPS).  
+
+---
+
+#  Remote Access Trojan (RAT) Detection & Research  
+
+## **Known Remote Access Trojans (RATs)**  
+
+- [QuasarRAT](https://github.com/quasar/QuasarRAT) – Lightweight Windows RAT.  
+- [AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) – Open-source RAT.  
+- [MeshCentral RAT](https://meshcentral.com/) – Remote management tool.  
+- [DarkComet](https://github.com/eset/malware-ioc/tree/master/DarkComet) – Infamous RAT.  
+
+## **Detection & Remediation**  
+
+- [Process Hacker](https://processhacker.sourceforge.io/) – Detects suspicious processes.  
+- [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) – Identifies persistence mechanisms.  
+- [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) – Logs process creation, registry changes.  
+
+---
+
+# 🛡 Security-Focused Operating Systems  
+
+## **Best OS for Pentesting & Ethical Hacking**  
+
+- [Kali Linux](https://www.kali.org/) – Penetration testing distribution.  
+- [Parrot Security OS](https://www.parrotsec.org/) – Lightweight pentesting OS.  
+- [BlackArch Linux](https://blackarch.org/) – Extensive hacking tool collection.  
+
+## **Forensics & Malware Analysis OS**  
+
+- [Security Onion](https://securityonion.net/) – Threat hunting & network forensics.  
+- [REMnux](https://remnux.org/) – Malware analysis toolkit.  
+
+---
+
+#  Cryptography & Password Cracking  
+
+## **Password Recovery & Cracking**  
+
+- [John the Ripper](https://www.openwall.com/john/) – Offline password cracker.  
+- [Hashcat](https://hashcat.net/hashcat/) – GPU-accelerated hash cracker.  
+
+## **Encryption & Data Transformation**  
+
+- [CyberChef](https://gchq.github.io/CyberChef/) – Web-based cryptographic analysis.  
+
+---
+
+
 
 
 ---
@@ -123,6 +161,10 @@ These platforms offer **hands-on practice** for **penetration testing, forensics
 
 
 ---
+
+
+ 
+
 
 
 
