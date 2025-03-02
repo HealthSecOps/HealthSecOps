@@ -169,6 +169,34 @@ These platforms provide hands-on **hacking challenges, Capture The Flag (CTF) co
 - [CyberChef](https://gchq.github.io/CyberChef/) – Web-based cryptographic analysis.  
 
 ---
+## **Digital Forensics & Incident Response (DFIR) Tools**
+
+### **Memory Forensics**
+- [Volatility](https://github.com/volatilityfoundation/volatility) – A memory forensics framework for analyzing RAM dumps.
+- [Rekall](https://github.com/google/rekall) – A powerful memory forensic framework focused on live analysis.
+
+### **Disk Forensics**
+- [Autopsy](https://www.autopsy.com/) – A GUI-based digital forensics platform for disk analysis.
+- [The Sleuth Kit (TSK)](https://www.sleuthkit.org/) – A collection of command-line disk forensic tools.
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) – A recovery tool for lost partitions and file systems.
+
+### **Network Forensics**
+- [Wireshark](https://www.wireshark.org/) – A powerful packet capture and network traffic analysis tool.
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) – Network forensic analysis tool for reconstructing communications.
+
+### **Log Analysis & SIEM**
+- [Logstash](https://www.elastic.co/logstash/) – A log processing pipeline for security event analysis.
+- [OSSEC](https://www.ossec.net/) – A host-based intrusion detection system that performs log analysis.
+- [GoAccess](https://goaccess.io/) – Real-time log analyzer for web traffic.
+
+### **Incident Response & Triage**
+- [GRR Rapid Response](https://grr-doc.readthedocs.io/en/latest/) – A remote live forensics tool for incident response.
+- [KAPE (Kroll Artifact Parser and Extractor)](https://www.kroll.com/en/insights/publications/cyber/kape) – A tool for triage and artifact collection.
+- [Cyber Triage](https://www.cybertriage.com/) – Automated triage for compromised endpoints.
+- [Velociraptor](https://www.velociraptor.app/) – Open-source DFIR and threat hunting tool.
+
+---
+
 
 
 
